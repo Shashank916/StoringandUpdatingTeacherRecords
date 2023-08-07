@@ -1,0 +1,11 @@
+001|Shashank|10th|B
+002|Bhumika|9th|A
+003|Lakshmi|8th|B
+004|Sadashiva|7th|C
+005|Kokila|6th|A
+006|Rani|5th|B
+007|Karthik|4th|A
+008|Nikil|3rd|B
+009|Nayak|2nd|C
+010|Likith|1st|A
+011|Sagar|5th|B
